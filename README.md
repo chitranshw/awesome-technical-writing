@@ -197,22 +197,22 @@
 
   </summary>
 
-| Name              | Link to Blog                                                             | Blog Niche                       | Link to Twitter                                       |
-|-------------------|--------------------------------------------------------------------------|----------------------------------|-------------------------------------------------------|
-| Bolaji Ayodeji    | https://blog.bolajiayodeji.com                   | Web/Data Engineering, JavaScript, Python, Machine Learning, and Ecommerce.  | [@iambolajiayo](https://twitter.com/iambolajiayo)     |
-| Angie Jones       | https://angiejones.tech                      | Test Automation, and Java.            | [@techgirl1908](https://twitter.com/techgirl1908)     |
-| Sarah Drasner     | https://sarah.dev/writing                  | Web Development, Vuejs, and SVGs.     | [@sarah_edo](https://twitter.com/sarah_edo)           |
-| Prosper Otemuyiwa | https://medium.com/@unicodeveloper | All things Technical and Magical.   | [@unicodeveloper](https://twitter.com/unicodeveloper) |
-| Ire Aderinokun    | https://bitsofco.de                             | Frontend Development and JavaScript. | [@ireaderinokun](https://twitter.com/ireaderinokun)   |
-| Tom Johnson       | https://idratherbewriting.com                                         | Technical Writing and API lessons. | [@tomjohnson](https://twitter.com/tomjohnson)         |
-| Anne Gentle       | https://justwriteclick.com                                      | Doc as Code.                      | [@annegentle](https://twitter.com/annegentle)         |
-| Kayce Basques     | https://kayce.basqu.es/blog                                            | Dev tools and Documentation.      | [@kaycebasques](https://twitter.com/kaycebasques)     |
-| Tania Rascia     | https://taniarascia.com                                            | Modern JavaScript, Node.js, and development.     | [@taniarascia](https://twitter.com/taniarascia)     |
-| SWYX     | https://swyx.io/writing                                            | Web Development, React and Tech.     | [@swyx](https://twitter.com/swyx)     |
-| Sean C Davis    | https://cobwwweb.com/ | Web Development and Jamstack. | [@seancdavis29](https://twitter.com/seancdavis29)  |
-| Alvaro Montoro |  https://dev.to/alvaromontoro  | CSS and HTML. | [@alvaro_montoro](https://twitter.com/alvaro_montoro) |
-| Linda Ikechukwu | https://everythingtechnicalwriting.com | Technical Writing and Developer Documentation. | [@_mslinda](https://twitter.com/_MsLinda)|
-| Amruta Ranade | https://www.youtube.com/c/AmrutaRanade | Technical Writing and Developer Documentation. | [@AmrutaRanade](https://twitter.com/AmrutaRanade) | 
+| Name              | Link to Blog                                    | Blog Niche                            | Link to Twitter
+| :---              | :---                                            | :---                                  | :---                                                  |
+| Bolaji Ayodeji    |  https://blog.bolajiayodeji.com                 | Web/Data Engineering, JavaScript, Python, Machine Learning, and Ecommerce | [@iambolajiayo](https://twitter.com/iambolajiayo) |
+| Angie Jones       | https://angiejones.tech                         | Test Automation, and Java.            | [@techgirl1908](https://twitter.com/techgirl1908)     |
+| Sarah Drasner     | https://sarah.dev/writing                       | Web Development, Vuejs, and SVGs.     | [@sarah_edo](https://twitter.com/sarah_edo)           |
+| Prosper Otemuyiwa | https://medium.com/@unicodeveloper              | All things Technical and Magical.     | [@unicodeveloper](https://twitter.com/unicodeveloper) |
+| Ire Aderinokun    | https://bitsofco.de                             | Frontend Development and JavaScript.  | [@ireaderinokun](https://twitter.com/ireaderinokun)   |
+| Tom Johnson       | https://idratherbewriting.com                   | Technical Writing and API lessons.    | [@tomjohnson](https://twitter.com/tomjohnson)         |
+| Anne Gentle       | https://justwriteclick.com                      | Doc as Code.                          | [@annegentle](https://twitter.com/annegentle)         |
+| Kayce Basques     | https://kayce.basqu.es/blog                     | Dev tools and Documentation.          | [@kaycebasques](https://twitter.com/kaycebasques)     |
+| Tania Rascia      | https://taniarascia.com                         | Modern JavaScript, Node.js, and development.  | [@taniarascia](https://twitter.com/taniarascia)|
+| SWYX              | https://swyx.io/writing                         | Web Development, React and Tech.      | [@swyx](https://twitter.com/swyx)                     |
+| Sean C Davis      | https://cobwwweb.com/                           | Web Development and Jamstack.         | [@seancdavis29](https://twitter.com/seancdavis29)     |
+| Alvaro Montoro    |  https://dev.to/alvaromontoro                   | CSS and HTML.                         | [@alvaro_montoro](https://twitter.com/alvaro_montoro) |
+| Linda Ikechukwu   | https://everythingtechnicalwriting.com          | Technical Writing and Developer Documentation. | [@_mslinda](https://twitter.com/_MsLinda)    |
+| Amruta Ranade     | https://www.youtube.com/c/AmrutaRanade     | Technical Writing and Developer Documentation. | [@AmrutaRanade](https://twitter.com/AmrutaRanade) |  
 
  </details>
 
